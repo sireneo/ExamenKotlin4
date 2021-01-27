@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenKotlin</string>
+    <string name="txt_valor">Ingrese un valor</string>
+    <string name="btn_envair">Enviar</string>
+    <string name="txt_resulr">Resultado</string>
+    <string name="btn_volver">Anterior</string>
+    <string name="col">col </string>
+</resources>
